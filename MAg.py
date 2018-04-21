@@ -1302,5 +1302,5 @@ if __name__ == '__main__':
     #
     # df_a2p_with_country = pd.merge(df_a2p,df_aff,on = 'affiliation_id',how = 'left')
 
-    #abn = find_stop_cons(df_con,df_paper)
-    #df_con,df_paper = exclude_abn(df_con,df_paper,abn)
+    abn = find_stop_cons(df_con,df_paper)
+    df_con,df_paper = exclude_abn(df_con,df_paper,abn)

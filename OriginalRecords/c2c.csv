@@ -1,0 +1,244 @@
+abbr,continent,country
+CMR,Africa,Cameroon
+BEN,Africa,Benin
+MDG,Africa,Madagascar
+RWA,Africa,Rwanda
+SYC,Africa,Seychelles
+CIV,Africa,Cote d'lvoir
+EGY,Africa,Egypt
+MUS,Africa,Mauritius
+BFA,Africa,Burkina Faso
+ERI,Africa,Eritrea
+STP,Africa,Sao Tome & Principe
+AGO,Africa,Angola
+LBY,Africa,Libyan Arab Jm
+,Africa,Ceuta
+ZWE,Africa,Zimbabwe
+GIN,Africa,Guinea
+SLE,Africa,Sierra Leone
+REU,Africa,Reunion
+GAB,Africa,Gabon
+GHA,Africa,Ghana
+TZA,Africa,Tanzania
+MLI,Africa,Mali
+SOM,Africa,Somalia
+MRT,Africa,Mauritania
+UGA,Africa,Uganda
+TCD,Africa,Chad
+MYT,Africa,Mayotte
+COM,Africa,Comoros
+BWA,Africa,Botswana
+SEN,Africa,Senegal
+SWZ,Africa,Swaziland
+GNB,Africa,Guinea Bissau
+CAF,Africa,Central African Rep.
+LSO,Africa,Lesotho
+COG,Africa,Congo
+ZAF,Africa,South Africa
+LBR,Africa,Liberia
+TUN,Africa,Tunisia
+ZMB,Africa,Zambia
+NER,Africa,Niger
+ESH,Africa,Western Sahara
+TGO,Africa,Togo
+NAM,Africa,Namibia
+MOZ,Africa,Mozambique
+,Africa,Melilla
+ETH,Africa,Ethiopia
+MAR,Africa,Morocco
+MWI,Africa,Malawi
+NGA,Africa,Nigeria
+CPV,Africa,Cape Verde
+BDI,Africa,Burundi
+DZA,Africa,Algeria
+DJI,Africa,Djibouti
+,Africa,Canary Is
+GMB,Africa,Gambia
+GNQ,Africa,Eq.Guinea
+SDN,Africa,Sudan
+KEN,Africa,Kenya
+SGP,Asia,Singapore
+KOR,Asia,Korea Rep.
+SYR,Asia,Syrian
+UZB,Asia,Uzbekistan
+BHR,Asia,Bahrain
+JPN,Asia,Japan
+JOR,Asia,Jordan
+VNM,Asia,Vietnam
+KGZ,Asia,Kirghizia
+THA,Asia,Thailand
+LKA,Asia,Sri Lanka
+ARE,Asia,United Arab Emirates
+LAO,Asia,Laos
+AFG,Asia,Afghanistan
+MAC,Asia,Macau
+TJK,Asia,Tadzhikistan
+PRK,Asia,Korea
+PAL,Asia,Palestine
+HKG,Asia,Hong Kong
+IRQ,Asia,Iraq
+LBN,Asia,Lebanon
+KWT,Asia,Kuwait
+BRN,Asia,Brunei
+MDV,Asia,Maldives
+IDN,Asia,Indonesia
+ISR,Asia,Israel
+MNG,Asia,Mongolia
+OMN,Asia,Oman
+IND,Asia,India
+MMR,Asia,Myanmar
+MYS,Asia,Malaysia
+TMP,Asia,East Timor
+YEM,Asia,Republic of Yemen
+BTN,Asia,Bhutan
+KHM,Asia,Cambodia
+PAK,Asia,Pakistan
+BGD,Asia,Bangladesh
+SAU,Asia,Saudi Arabia
+TKM,Asia,Turkmenistan
+QAT,Asia,Qatar
+NPL,Asia,Nepal
+KAZ,Asia,Kazakhstan
+PHL,Asia,Philippines
+TWN,Asia,Taiwan
+CHN,CHINA,China
+IRN,Asia,Iran
+CRI,Central America,Costa Rica
+CUB,Central America,Cuba
+DOM,Central America,Dominican Rep.
+MEX,Central America,Mexico
+NIC,Central America,Nicaragua
+PAN,Central America,Panama
+ANT,Central America,the Netherlands Antilles
+SLV,Central America,El Salvador
+BVI,Central America,VIRGIN IS
+PTR,Central America,Puerto Rico
+,Central America,VIRGIN IS
+,Central America,ANGUILLA
+,Central America,ST. LUCIA
+VAG,Central America,ST. VINCENT AND THE GRENADINES
+,Central America,NETHERLANDS ANTILLES
+GLP,Central America,Guadeloupe
+HND,Central America,Honduras
+GTM,Central America,Guatemala
+GEO,Europe,Georgia
+ARM,Europe,Armenia
+AZE,Europe,Azerbaijan
+BLR,Europe,Byelorussia
+RUS,Europe,Russia
+UKR,Europe,Ukraine
+HUN,Europe,Hungary
+ISL,Europe,Iceland
+MLT,Europe,Malta
+MCO,Europe,Monaco
+NOR,Europe,Norway
+ROM,Europe,Romania
+SMR,Europe,San Marino
+SWE,Europe,Sweden
+CHE,Europe,Switzerland
+EST,Europe,Estonia
+LVA,Europe,Latvia
+LTU,Europe,Lithuania
+MDA,Europe,Moldavia
+TUR,Europe,Turkey
+SVN,Europe,Slovenia
+CZE,Europe,Czech
+SVK,Europe,Slovak
+MKD,Europe,Macedonia
+BIH,Europe,Bosnia
+VAT,Europe,Vatican
+NLD,Europe,Netherland
+NLD,Europe,Netherlands
+HRV,Europe,Croatia
+GRC,Europe,Greece
+IRL,Europe,Ireland
+BEL,Europe,Belgium
+CYP,Europe,Cyprus
+DNK,Europe,Denmark
+ENG,UK,scotland
+ENG,UK,U.K
+ENG,UK,England
+ENG,UK,UK
+ENG,UK,United Kingdom
+DEU,Europe,Germany
+FRA,Europe,France
+ITA,Europe,Italy
+LUX,Europe,Luxembourg
+PRT,Europe,Portugal
+POL,Europe,Poland
+ESP,Europe,Spain
+ALB,Europe,Albania
+AND,Europe,Andorra
+LIE,Europe,Liechtenstein
+S&M,Europe,Montenegro
+S&M,Europe,Serbia
+AUT,Europe,Austria
+BGR,Europe,Bulgaria
+FIN,Europe,Finland
+GIB,Europe,Gibraltar
+DMA,North America,Dominica
+BMU,North America,Bermuda
+CAN,North America,Canada
+USA,USA,US
+USA,USA,U.S.A
+USA,USA,USA
+USA,USA,United States
+GRL,North America,Greenland
+TON,Oceania,Tonga
+AUS,Oceania,Australia
+COK,Oceania,Cook
+NRU,Oceania,Nauru
+NCL,Oceania,New Caledonia
+VUT,Oceania,Vanuatu
+SLB,Oceania,Solomon
+WSM,Oceania,Samoa
+TUV,Oceania,Tuvalu
+FSM,Oceania,Micronesia
+MHL,Oceania,Marshall
+KIR,Oceania,Kiribati
+PYF,Oceania,French Polynesia
+NZL,Oceania,New Zealand
+FJI,Oceania,Fiji
+PNG,Oceania,Papua New Guinea
+PLW,Oceania,Palau
+,Oceania,Tuamotu
+,Oceania,Tubai
+,Oceania,Society
+,Oceania,Marquesas
+,Oceania,Gambier
+,Oceania,Norfolk Is
+CHL,South America,Chile
+COL,South America,Colombia
+GUF,South America,French Guyana
+GUY,South America,Guyana
+,South America,Curacao
+PRY,South America,Paraguay
+PER,South America,Peru
+SUR,South America,Suriname
+VEN,South America,Venezuela
+URY,South America,Uruguay
+ECU,South America,Ecuador
+ATG,South America,Antigua and Barbuda
+ABW,South America,Aruba
+BHS,South America,Bahamas
+BRB,South America,Barbados
+CYM,South America,Cayman
+GRD,South America,Grenada
+,South America,Saba
+HTI,South America,Haiti
+JAM,South America,Jamaica
+MTQ,South America,Martinique
+MSR,South America,Montserrat
+VCT,South America,Saint Vincent and Grenadines
+TTO,South America,Trinidad and Tobago
+TCA,South America,Turks and Caicos
+VGB,South America,Br. Virgin
+KNA,South America,Kitts-Nevis
+,South America,Saint Martin
+SPM,South America,Pierre and Miquelon
+ARG,South America,Argentina
+BLZ,South America,Belize
+BOL,South America,Bolivia
+BRA,South America,Brazil
+,South America,Bonaire
+LCA,South America,Saint Lucia

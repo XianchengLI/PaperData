@@ -1,0 +1,704 @@
+con_id,con_abbr,con_name,CCF_classification,CCF_category,CORE_classification
+42DBFEF6,SWS,Secure Web Services,X,X,C
+44815780,WSC,Winter Simulation Conference,X,X,B
+44ADC5A3,ADMI,Agents and Data Mining Interaction,X,X,B
+44F7644F,ISA,Information Security and Assurance,X,X,C
+4527A09C,ISMM,International Symposium on Memory Management,X,X,B
+45D14EDE,UbiComp,Ubiquitous Computing,A,9.0,A*
+46A3F844,AI,Canadian Conference on Artificial Intelligence,X,X,Australasian
+46F865B7,HAIS,Hybrid Artificial Intelligence Systems,X,X,C
+4761B00F,NSPW,New Security Paradigms Workshop,C,3.0,C
+856D618D,ACC,American Control Conference,X,X,C
+42C7B402,WSDM,Web Search and Data Mining,C,5.0,A*
+4326CCD6,ESANN,The European Symposium on Artificial Neural Networks,X,X,B
+4372B502,ICMI,International Conference on Multimodal Interfaces,C,9.0,B
+43A23F32,SECON,"Sensor, Mesh and Ad Hoc Communications and Networks",B,2.0,B
+43A585B4,ISPDC,International Symposium on Parallel and Distributed Computing,X,X,C
+43B946B8,SOUPS,Symposium On Usable Privacy and Security,C,3.0,B
+442E19D7,RANLP,Recent Advances in Natural Language Processing,X,X,C
+45F914AD,NAACL,North American Chapter of the Association for Computational Linguistics,C,8.0,A
+4606A0B0,CDVE,"Cooperative Design, Visualization, and Engineering",X,X,C
+46081467,ICON,International Conference on Networks,X,X,B
+46F6F355,CBSE,Component-Based Software Engineering,X,X,B
+4726E440,EDM,Educational Data Mining,X,X,B
+474677D8,PARCO,Parallel Computing,X,X,C
+479D4D98,CP,Principles and Practice of Constraint Programming,B,4.0,A
+42D8A0F3,AIMSA,"Artificial Intelligence: Methodology, Systems, Applications",X,X,Unranked
+432251B5,ICME,International Conference on Multimedia and Expo,B,7.0,B
+43A193B2,CLUSTER,International Conference on Cluster Computing,C,1.0,A
+44ACBCB7,ACML,Asian Conference on Machine Learning,X,X,Unranked
+44C93DEC,ESA,European Symposium on Algorithms,C,6.0,A
+454CC982,W2GIS,Web and Wireless Geographical Information Systems,X,X,C
+45700DCB,P2P,International Conference on Peer-to-Peer Computing,C,2.0,C
+4607C954,EC,Electronic Commerce,X,X,B
+461F33EF,SEW,Annual Software Engineering Workshop,X,X,C
+465D12F0,PPDP,Principles and Practice of Declarative Programming,X,X,B
+46AD78C1,DCC,Data Compression Conference,B,7.0,A*
+476F3906,CCS,Computer and Communications Security,A,3.0,A*
+430122E0,PADL,Practical Aspects of Declarative Languages,X,X,B
+433DE719,ICES,International Conference on Evolvable Systems,X,X,C
+43B85068,CSCL,Computer Supported Collaborative Learning,X,X,A
+43C1EF66,ICPADS,International Conference on Parallel and Distributed Systems,C,1.0,B
+43E84C32,APLAS,Asian Symposium on Programming Languages and Systems,C,4.0,B
+448D1E7E,ICDAR,International Conference on Document Analysis and Recognition,C,8.0,A
+449397C9,ISMIS,International Syposium on Methodologies for Intelligent Systems,X,X,C
+44B2697D,SARA,"Symposium on Abstraction, Reformulation and Approximation",X,X,B
+44B92818,PKAW,Pacific Rim Knowledge Acquisition Workshop,X,X,B
+451D2615,ESEM,Empirical Software Engineering and Measurement,C,4.0,A
+45230F0A,PST,"Conference on Privacy, Security and Trust",X,X,C
+4579FB5B,ITC,International Test Conference,C,1.0,B
+45EB6430,LPNMR,Logic Programming and Non-Monotonic Reasoning,X,X,A
+4634306E,ADHOC-NOW,"Ad-Hoc, Mobile and Wireless Networks",X,X,B
+46AC2C9A,IFM,Integrated Formal Methods,X,X,B
+47650C33,BROADNETS,"Broadband Communications, Networks and Systems",X,X,B
+43CD4E8A,TCC,Theory of Cryptography Conference,B,3.0,A
+43CDABDA,SAS,Static Analysis Symposium,B,4.0,A
+44D822DB,WISM,Web Information Systems Modeling,X,X,C
+44DF880B,MVA,Machine Vision Applications,X,X,C
+459777C0,APSCC,Asia-Pacific Services Computing Conference,X,X,C
+45B176DF,JCDL,ACM/IEEE Joint Conference on Digital Libraries,X,X,A*
+46228D40,FMICS,Formal Methods for Industrial Critical Systems,X,X,C
+46598FE3,NDSS,Network and Distributed System Security Symposium,B,3.0,A
+465F7C62,ICML,International Conference on Machine Learning,A,8.0,A*
+46CB61B2,RSP,Rapid System Prototyping,X,X,C
+46E27806,ECSQARU,European Conference on Symbolic and Quantitative Approaches to Reasoning and Uncertainty,X,X,C
+4783E335,SACI,Symposium on Applied Computational Intelligence and Informatics,X,X,C
+47880EBE,ICSEA,International Conference on Software Engineering Advances,X,X,C
+478BCB40,IWDW,International Workshop on Digital Watermarking,X,X,C
+47C35ECC,ICMCS,International Conference on Multimedia Computing and Systems,X,X,A
+4472F8CF,INFOVIS,IEEE Symposium on Information Visualization,X,X,A*
+447A7E77,BIS,Business Information Systems,X,X,B
+44AE44DD,CGI,Computer Graphics International,C,7.0,B
+450B99F2,ANSS,Annual Simulation Symposium,X,X,C
+453CB501,ICVS,International Conference on Computer Vision Systems,X,X,C
+4569270C,HICSS,Hawaii International Conference on System Sciences,X,X,A
+45E8D393,ICDCN,International Conference of Distributed Computing and Networking,X,X,B
+460FDA1C,CATS,Computing: The Australasian Theory Symposium,X,X,Australasian
+4627B282,MDAI,Modeling Decisions for Artificial Intelligence,X,X,B
+463119A6,COLT,Computational Learning Theory,B,8.0,A*
+464DFFCB,SCSC,Summer Computer Simulation Conference,X,X,B
+468CDFB4,PSB,Pacific Symposium on Biocomputing,X,X,C
+4786A6E3,ILP,Inductive Logic Programming,C,8.0,B
+43C176E6,COMSWARE,COMmunication System softWAre and MiddlewaRE,X,X,C
+446908FE,CoopIS,Cooperative Information Systems,C,9.0,A
+44E12FD1,ISWC,International Semantic Web Conference,B,5.0,A
+45F964A3,MobiQuitous,International Conference on Mobile and Ubiquitous Systems: Networking and Services,C,9.0,A
+460A7036,SIGMOD,International Conference on Management of Data,A,5.0,A*
+465DBAD1,VMCAI,"Verification, Model Checking and Abstract Interpretation",B,4.0,B
+465F0C00,ICCM,International Conference on Cognitive Modelling,X,X,C
+46BC0EDE,ICWE,International Conference on Web Engineering,C,4.0,B
+4737FD14,ISPA,International Symposium on Parallel and Distributed Processing and Applications,X,X,B
+474BD8D0,PDPTA,Parallel and Distributed Processing Techniques and Applications,X,X,B
+478ED67F,RV,Runtime Verification,X,X,C
+42CB1F93,ICMLC,International Conference on Machine Learning and Cybernetics,X,X,C
+42D493FC,ICASSP,"International Conference on Acoustics, Speech, and Signal Processing",C,7.0,B
+43226B44,HPCA,High-Performance Computer Architecture,A,1.0,A*
+438B4414,DLS,Dynamic Languages Symposium,X,X,B
+439BCE5E,RecSys,Conference on Recommender Systems,X,X,B
+44902F2C,ITHET,Information Technology Based Higher Education and Training,X,X,C
+44AB61E1,RTCSA,Embedded and Real-Time Computing Systems and Applications,X,X,B
+45E5BC3F,CIS,Computational Intelligence and Security,X,X,C
+45FFFB88,ICSE,International Conference on Software Engineering,A,4.0,A*
+4668332C,BSN,Wearable and Implantable Body Sensor Networks,X,X,C
+46E8C2CD,VECPAR,High Performance Computing for Computational Science (Vector and Parallel Processing),X,X,B
+46F3B6B4,TARK,Theoretical Aspects of Rationality and Knowledge,X,X,A
+47490CF4,CTS,Collaboration Technologies and Systems,X,X,C
+436150FA,ICC,International Conference on Communications,C,2.0,B
+43626F75,IVCNZ,Image and Vision Computing New Zealand,X,X,B
+4372AEEF,SIGMETRICS,Measurement and Modeling of Computer Systems,B,1.0,A*
+43E59455,HPCNCS,"High Performance Computing, Networking and Communication Systems",X,X,B
+44788D44,IDEAL,Intelligent Data Engineering and Automated Learning,X,X,C
+448ECA1D,FOCS,Foundations of Computer Science,A,6.0,A*
+45BA2C87,PDCAT,Parallel and Distributed Computing: Applications and Technologies,X,X,B
+46469614,FDG,Foundations of Digital Games,X,X,C
+4686A887,ISSCC,International Solid-State Circuits Conference,X,X,A
+46FFDB2C,AMAST,Algebraic Methodology and Software Technology,X,X,C
+4769E092,RAID,Recent Advances in Intrusion Detection,B,3.0,A
+477F6C83,FSE,Foundations of Software Engineering,B,3.0,B
+477F6C83,FSE,Foundations of Software Engineering,A,4.0,B
+4300B64E,Afrigraph,"Computer Graphics, Virtual Reality, Visualisation and Interaction in Africa",X,X,C
+4307E237,WOSIS,Security in Information Systems,X,X,C
+439F03CF,PACT,International Conference on Parallel Architectures and Compilation Techniques,B,1.0,A
+44DA004E,KR,Principles of Knowledge Representation and Reasoning,B,8.0,A*
+4515502B,ICPC,International Conference on Program Comprehension,B,4.0,C
+454ED2F8,ICFP,International Conference on Functional Programming,B,4.0,A*
+45610CDA,ICDE,International Conference on Data Engineering,A,5.0,A*
+45827814,NPC,Network and Parallel Computing,C,1.0,C
+45A2253F,VizSEC,Visualization for Computer Security,X,X,C
+45CC63B2,ICMT,International Conference on Model Transformation,X,X,B
+46EC7D07,DOLAP,Data Warehousing and OLAP,X,X,B
+4714E463,SOCA,Service-Oriented Computing and Applications,X,X,C
+471F9CDC,WebDB,International Workshop on the Web and Databases,C,5.0,C
+476E7EAC,ISTA,Information Systems Technology and its Applications,X,X,B
+478CDBCA,TAMC,Theory and Applications of Models of Computation,X,X,B
+43001016,ECCV,European Conference on Computer Vision,B,8.0,A
+433D5EC6,SEFM,Software Engineering and Formal Methods,X,X,B
+4389053B,HIPS,High-Level Parallel Programming Models and Supportive Environments,X,X,C
+43ABF249,WWW,International World Wide Web Conferences,B,5.0,A*
+4431E39D,SoMeT,"New Trends in Software Methodologies, Tools and Techniques",X,X,B
+45126447,ICANN,International Conference on Artificial Neural Networks,C,8.0,B
+451E8992,ECBS,Engineering of Computer-Based Systems,X,X,B
+454F686A,ECAI,European Conference on Artificial Intelligence,B,8.0,A
+45C7663C,SMC,"Systems, Man and Cybernetics",X,X,B
+46819766,QSIC,International Conference on Quality Software,C,4.0,B
+478757A6,CEC,Congress on Evolutionary Computation,X,X,C
+433E69C4,SAFECOMP,"International Conference on Computer Safety, Reliability, and Security",X,X,B
+43510C43,ICISS,International Conference on Information Systems Security,X,X,B
+43BF9DCC,OPODIS,International Conference on Principles of Distributed Systems,X,X,B
+43D2A5F0,ICCS,International Conference on Conceptual Structures,X,X,A
+440E04A9,PKDD,European Conference on Principles of Data Mining and Knowledge Discovery,B,5.0,A
+446BF184,ADCS,Australasian Document Computing Symposium,X,X,Australasian
+454AACD8,MSR,Mining Software Repositories,X,X,C
+45687161,Performance,"International Symposium on Computer Modeling, Measurement and Evaluation",B,1.0,A
+46B8FFD4,ADC,Australasian Database Conference,X,X,Australasian
+46DAFD1F,PRDC,Pacific Rim International Symposium on Dependable Computing,X,X,B
+46F1CA07,PRIS,Pattern Recognition in Information Systems,X,X,C
+42CD4D27,ICA3PP,International Conference on Algorithms and Architectures for Parallel Processing,C,1.0,B
+42E510A7,WISA,Workshop on Information Security Applications,X,X,C
+43C4880A,WAW,Workshop on Algorithms and Models for the Web-Graph,X,X,C
+43F6459B,EUROCRYPT,Theory and Application of Cryptographic Techniques,A,3.0,A*
+448DC0E0,ICCCI,International Conference on Computational Collective Intelligence,X,X,C
+4565989B,ICIW,International Conference on Internet and Web Applications and Services,X,X,C
+45CE5B32,AAIM,Algorithmic Applications in Management,X,X,C
+46BD07AF,DICTA,Digital Image Computing: Techniques and Applications,X,X,B
+46FD5AEB,ISSAC,International Symposium on Symbolic and Algebraic Computation,X,X,A*
+475A7738,ARITH,Symposium on Computer Arithmetic,X,X,C
+47AF2B68,DFMA,Distributed Frameworks for Multimedia Applications,X,X,C
+47CCD465,UAI,Uncertainty in Artificial Intelligence,B,8.0,A*
+42E17B30,ISI,Intelligence and Security Informatics,X,X,C
+43618307,ATVA,Automated Technology for Verification and Analysis,C,4.0,A
+4377364B,EJC,European-Japanese Conference on Information Modelling and Knowledge Bases,X,X,C
+43940F97,CSR,Computer Science Symposium in Russia,X,X,C
+443CBAC4,PRIMA,Pacific Rim International Conference on Multi-Agents,X,X,B
+44EABA80,GMP,Geometric Modeling and Processing,C,7.0,B
+45083D2F,CVPR,Computer Vision and Pattern Recognition,A,8.0,A
+451C4D3D,ALENEX,Algorithm Engineering and Experimentation,X,X,A
+45465CC4,CC,Compiler Construction,X,X,A
+45701BF3,ICCV,International Conference on Computer Vision,A,8.0,A*
+4574D9D2,ICDT,International Conference on Database Theory,B,5.0,A
+459868E4,PDC,Participatory Design Conference,X,X,B
+461DDC0A,SACMAT,Symposium on Access Control Models and Technologies,C,3.0,C
+46556D49,ESWC,European Semantic Web Conference,C,5.0,A
+4693D390,IPCO,Integer Programming and Combinatorial Optimization,C,6.0,A
+46C53898,AINA,Advanced Information Networking and Applications,X,X,B
+46D6E0D7,ECIW,European Conference on Information Warfare and Security,X,X,C
+47059E35,MoDELS,Model Driven Engineering Languages and Systems,B,4.0,B
+47169EC5,DEXA,Database and Expert Systems Applications,C,5.0,B
+4727BEE5,PPSN,Parallel Problem Solving from Nature,X,X,A
+474799EB,IA,Intelligent Agents,X,X,C
+476C3638,EATIS,Euro American Conference on Telematics and Information Systems,X,X,Unranked
+47957C42,ICAART,International Conference on Agents and Artificial Intelligence,X,X,C
+43073C3F,CPAIOR,Integration of AI and OR Techniques in Constraint Programming,X,X,B
+430EDF97,ECDL,European Conference on Research and Advanced Technology for Digital Libraries,X,X,A
+4321CC25,CICLing,Conference on Intelligent Text Processing and Computational Linguistics,X,X,B
+43B71DE0,ICPS,International Conference on Pervasive Services,X,X,C
+43CB8BB1,FLOPS,International Symposium on Functional and Logic Programming,X,X,A
+44250E28,IROS,Intelligent RObots and Systems,X,X,A
+45276E0A,ACNS,Applied Cryptography and Network Security,C,3.0,B
+45483BED,IWANN,International Work-Conference on Artificial and Natural Neural Networks,X,X,B
+455C7238,MFCS,Mathematical Foundations of Computer Science,C,6.0,A
+45C742AD,RoboCup,Robot Soccer World Cup,X,X,B
+45CEA1A5,DAARC,Discourse Anaphora and Anaphor Resolution Colloquium,X,X,C
+46173BF7,VCIP,Visual Communications and Image Processing,X,X,B
+46CFE76B,ICSOFT,International Conference on Software and Data Technologies,X,X,B
+4733F622,KEOD,International Conference on Knowledge Engineering and Ontology Development,X,X,C
+4789F291,ICDCS,International Conference on Distributed Computing Systems,B,1.0,A
+42F14778,MobiDE,Data Engineering for Wireless and Mobile Access,X,X,C
+438E31AA,LCN,Local Computer Networks,C,2.0,A
+43F3068F,GECCO,Genetic and Evolutionary Computation Conference,C,8.0,A
+43FD0CAC,ICCL,International Conference on Computational Logistics,X,X,A
+442BF739,ATC,Autonomic and Trusted Computing,X,X,C
+4472203F,EKAW,"Knowledge Acquisition, Modeling and Management",X,X,B
+450EFBB0,DUX,Designing for User eXperiences,X,X,B
+45443D53,PROFES,Product Focused Software Process Improvement,X,X,B
+455477A7,ICIP,International Conference on Image Processing,C,7.0,B
+45876312,K-CAP,International Conference on Knowledge Capture,X,X,A
+45D416DF,ISDA,Intelligent Systems Design and Applications,X,X,C
+45D6911A,ACII,Affective Computing and Intelligent Interaction,X,X,C
+468A7487,ICDM,International Conference on Data Mining,B,5.0,A*
+468D8535,ESORICS,European Symposium on Research in Computer Security,B,3.0,A
+469407EC,ADMA,Advanced Data Mining and Applications,X,X,B
+46A05BB0,AAAI,National Conference on Artificial Intelligence,A,8.0,A*
+46A60087,SYNASC,Symbolic and Numeric Algorithms for Scientific Computing,X,X,C
+46FBD884,STOC,Symposium on the Theory of Computing,A,6.0,A*
+473A73C9,IGARSS,International Geoscience and Remote Sensing Symposium,X,X,C
+47A1D52F,MMSP,Multimedia Signal Processing,X,X,B
+43137C5C,AVSS,Advanced Video and Signal Based Surveillance,X,X,B
+43383ED6,AIME,Artificial Intelligence in Medicine in Europe,X,X,A
+433F0094,WISE,Web Information Systems Engineering,C,5.0,A
+4371D954,IWCMC,International Conference on Wireless Communications and Mobile Computing,X,X,B
+4372EE76,ICPR,International Conference on Pattern Recognition,C,8.0,B
+43758D9B,FOIS,Formal Ontology in Information Systems,X,X,A
+43820346,EDBT,Extending Database Technology,B,5.0,A
+4520AE55,ISR,International Symposium on Robotics,X,X,A
+45B4AB31,WiOpt,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks",X,X,B
+45C8CEE9,PRO-VE,Working Conference on Virtual Enterprises,X,X,C
+46EF4FF9,VRST,Virtual Reality Software and Technology,X,X,A
+46FBD930,RTAS,Real Time Technology and Applications Symposium,B,1.0,A
+471D649B,ALT,Algorithmic Learning Theory,C,8.0,B
+474FB019,ICGSE,International Conference on Global Software Engineering,X,X,C
+47CAE638,ACAL,Australian Conference on Artificial Life,X,X,Australasian
+432BB4B8,CoNEXT,Conference on Emerging Network Experiment and Technology,B,2.0,A
+436B17F2,CiE,Conference on Computability in Europe,X,X,C
+440ED19A,ICALP,"International Colloquium on Automata, Languages and Programming",B,6.0,A
+44679532,SETP,Software Engineering Theory and Practice,X,X,C
+44BF398F,HiPC,High Performance Computing,C,1.0,A
+4503201D,ISSRE,International Symposium on Software Reliability Engineering,B,4.0,A
+458F31C4,ITiCSE,Integrating Technology into Computer Science Education,X,X,A
+45A0F122,LOPSTR,Logic-based Program Synthesis and Transformation,C,4.0,B
+45B7D2EB,COLING,International Conference on Computational Linguistics,B,8.0,A
+461171C2,WIDM,Web Information and Data Management,X,X,B
+461B085B,ISPASS,International Symposium on Performance Analysis of Systems and Software,C,4.0,C
+46202E57,ER,International Conference on Conceptual Modeling,C,5.0,A
+46789D3E,DSS,Decision Support Systems,X,X,B
+474EAFD5,ISADS,International Symposium on Autonomous Decentralized Systems,X,X,C
+42E401CE,PSD,Privacy in Statistical Databases,X,X,C
+43520230,CSCWD,Computer Supported Cooperative Work in Design,X,X,B
+436976F3,KDD,Knowledge Discovery and Data Mining,A,5.0,A*
+43A56762,NOSSDAV,Network and Operating System Support for Digital Audio and Video,B,2.0,A
+43B93A74,GRAPP,International Conference on Computer Graphics Theory and Applications,X,X,B
+43E7F2AC,ICIAP,International Conference on Image Analysis and Processing,X,X,B
+4404AE79,COORDINATION,International Conference on Coordination Models and Languages,X,X,A
+44C0EC29,ICTAI,International Conference on Tools with Artificial Intelligence,C,8.0,B
+44F29802,WEBIST,International Conference on Web Information Systems and Technologies,X,X,C
+450EACAF,ICSOC,International Conference on Service Oriented Computing,B,4.0,A
+451FA97C,EUC,Embedded and Ubiquitous Computing,X,X,C
+452ACCB8,IM,Integrated Network Management,C,2.0,A
+457D53D9,WG,Workshop on Graph-Theoretic Concepts in Computer Science,X,X,A
+45BF6EA0,ICCE,International Conference on Computers in Education,X,X,B
+470B5A7A,GD,Graph Drawing,X,X,A
+470EFF91,VEE,Virtual Execution Environments,B,1.0,A
+42C509C4,RTA,Rewriting Techniques and Applications,C,6.0,A
+441038DB,PASTE,Workshop on Program Analysis For Software Tools and Engineering,C,4.0,B
+44ABD1BA,WoWMoM,"World of Wireless, Mobile and Multimedia Networks",C,2.0,A
+44ADC1F4,BPM,Business Process Management,X,X,A
+44E1A46F,CIG,Computational Intelligence and Games,X,X,C
+450560B3,APGV,Applied Perception in Graphics and Visualization,X,X,C
+450B3A86,NSDI,Networked Systems Design and Implementation,B,2.0,B
+4558D729,CHI,Human Factors in Computing Systems,A,9.0,A*
+4619EDE8,INDOCRYPT,International Conference on Cryptology in India,X,X,B
+462BF9E1,INTERSPEECH,Conference of the International Speech Communication Association,X,X,A
+4647C10B,ECAL,European Conference on Artificial Life,X,X,B
+4694B652,PODS,Symposium on Principles of Database Systems,B,5.0,A*
+4799F7D8,CTW,Cologne Twente Workshop on Graphs and Combinatorial Optimization,X,X,C
+479E6080,CIDR,Conference on Innovative Data Systems Research,B,5.0,A
+47A132CF,AIS,Autonomous and Intelligent Systems,X,X,C
+47AF8B65,ECCB,European Conference on Computational Biology,X,X,B
+430F1CC9,ICFCA,International Conference on Formal Concept Analysis,X,X,C
+43AA5802,MM,ACM Multimedia,A,7.0,A*
+43F65246,ICIS,International Conference on Information Systems,X,X,C
+451788DE,CloudCom,Cloud Computing,X,X,C
+455FBCE1,ICRA,International Conference on Robotics and Automation,B,8.0,B
+45A86DF6,ICCBR,International Conference on Case-Based Reasoning,B,8.0,C
+45D7DDA8,ICISC,International Conference on Information Security and Cryptology,X,X,B
+4764A635,INAP,International Conference on Applications of Declarative Programming and Knowledge Management,X,X,C
+47C39427,IJCAI,International Joint Conference on Artificial Intelligence,A,8.0,A*
+4306EF42,RTSS,Real-Time Systems Symposium,A,10.0,A*
+439E92D8,DAIS,Distributed Applications and Interoperable Systems,X,X,B
+4457BAFF,FoSSaCS,Foundations of Software Science and Computation Structure,X,X,A
+449D545A,ICAC,International Conference on Autonomic Computing,X,X,B
+44D3E57F,ASAP,"Application-Specific Systems, Architectures, and Processors",C,1.0,A
+45577A03,ICAPS,International Conference on Automated Planning and Scheduling,B,8.0,A*
+45C028EA,IUI,Intelligent User Interfaces,B,9.0,A
+45C4CD5D,SERA,Software Engineering Research and Applications,X,X,C
+4617B656,CRITIS,Critical Information Infrastructures Security,X,X,C
+47391705,MATES,Multiagent System Technologies,X,X,A
+47B8452D,WISTP,Workshop in Information Security Theory and Practice,X,X,C
+43123418,CIMCA,"Computational Intelligence for Modelling, Control and Automation",X,X,C
+436F501E,FUN,Fun with Algorithms,X,X,B
+439E9A1C,DGCI,Discrete Geometry for Computer Imagery,X,X,C
+44195980,ATMOS,"Algorithmic Approaches for Transportation Modeling, Optimization, and Systems",X,X,C
+44E34C11,KSEM,"Knowledge Science, Engineering and Management",C,8.0,B
+4516081A,TACAS,Tools and Algorithms for Construction and Analysis of Systems,X,X,A
+451FE2E9,ICMR,International Conference on Multimedia Retrieval,B,7.0,B
+457D0954,IDEAS,International Database Engineering and Applications Symposium,X,X,B
+45AEE573,SCAM,Source Code Analysis and Manipulation,C,4.0,C
+45BA0A3D,ICHIT,International Conference on Hybrid Information Technology,X,X,C
+467A131E,TASE,Theoretical Aspects of Software Engineering,C,4.0,C
+46DE2D44,RECOMB,Research in Computational Molecular Biology,B,10.0,B
+472B124E,AOSD,Aspect-Oriented Software Development,X,X,A
+43247716,HOTI,High Performance Interconnects,X,X,B
+43555C32,CGO,Symposium on Code Generation and Optimization,B,1.0,A
+4372E602,DISC,International Symposium on Distributed Computing,X,X,A
+4373F5A0,LCTES,"Languages, Compilers, and Tools for Embedded Systems",B,4.0,A
+43CD997E,HEALTHINF,International Conference on Health Informatics,X,X,C
+44135ABE,CHINZ,New Zealand Chapter's International Conference on Computer-Human Interaction,X,X,C
+442BD7CD,INFOCOM,International Conference on Computer Communications,A,2.0,A*
+44E5A1B2,ICPP,International Conference on Parallel Processing,B,1.0,A
+45302733,GrC,Granular Computing,X,X,C
+453C1DA9,SAMT,Semantics and Digital Media Technologies,X,X,C
+45913BE9,AMTA,Conference of the Association for Machine Translation in the Americas,X,X,B
+45A2F31B,ACSD,International Conference on Application of Concurrency to System Design,X,X,B
+4600D055,ISPEC,Information Security Practice and Experience,X,X,B
+4626185F,QoSA,Quality of Software Architectures,X,X,B
+463BE6FF,DATE,"Design, Automation, and Test in Europe",B,1.0,B
+4677A3BB,MCU,"Machines, Computations, and Universality",X,X,B
+478C2CAA,SECRYPT,International Conference on Security and Cryptography,X,X,B
+47A823DD,ICWS,International Conference on Web Services,B,4.0,A
+43987AC1,AVI,Advanced Visual Interfaces,C,9.0,B
+45277557,ISCC,International Symposium on Computers and Communications,C,2.0,B
+45F282AE,WAIM,Web-Age Information Management,C,5.0,C
+46598106,IWCIA,International Workshop on Combinatorial Image Analysis,X,X,C
+466431A5,SAINT,Symposium on Applications and the Internet,X,X,C
+475F4819,WITS,Workshop on Information Technologies and Systems,X,X,C
+47838997,IRFC,Information Retrieval Facility Conference,X,X,Unranked
+430E4089,WAOA,Workshop on Approximation and Online Algorithms,X,X,B
+4342BD78,ISSA,Information Security for South Africa,X,X,C
+43A3BF50,ICIDS,International Conference on Interactive Digital Storytelling,X,X,C
+442743F7,COCOA,Conference on Combinatorial Optimization and Applications,X,X,B
+451C6EC3,FOGA,Foundations of Genetic Algorithms,X,X,A*
+4539ED1E,ISNN,International Symposium on Neural Networks,X,X,C
+45D76B94,DIS,Designing Interactive Systems,C,9.0,B
+4612EACA,ICST,"International Conference on Software Testing, Verification, and Validation",C,4.0,C
+4637EEEA,STACS,Symposium on Theoretical Aspects of Computer Science,C,6.0,B
+469A7426,LATA,Language and Automata Theory and Applications,X,X,C
+46CDFBC4,DAC,Design Automation Conference,B,1.0,A
+475887BB,ENTER,Information and Communication Technologies in Tourism,X,X,C
+42B837D2,CEAS,Conference on Email and Anti-Spam,X,X,B
+435D23B8,SODA,Symposium on Discrete Algorithms,B,6.0,A*
+438FC436,ICDCIT,International Conference on Distributed Computing and Internet Technology,X,X,C
+44CCF851,DAS,Document Analysis Systems,X,X,B
+44DA6608,RuleML,Rules and Rule Markup Languages for the Semantic Web,X,X,B
+4549948F,CAV,Computer Aided Verification,B,6.0,A*
+47188EEA,CRiSIS,Conference on Risks and Security of Internet and Systems,X,X,C
+475B8292,PACCS,"Pacific-Asia Conference on Circuits, Communications and Systems",X,X,L
+47A17F8A,C5,"Conference on Creating, Connecting and Collaborating through Computing",X,X,C
+47A7A7E0,ISMAR,International Symposium on Mixed and Augmented Reality,C,7.0,A*
+43584039,EGPGV,Eurographics Workshop on Parallel Graphics and Visualization,X,X,B
+43CD1EFB,ADBIS,Advances in Databases and Information Systems,X,X,B
+43F41A29,PODC,Principles of Distributed Computing,B,1.0,A*
+43FD6777,ISMB,Intelligent Systems in Molecular Biology,B,10.0,A
+44F1BEFF,IAAI,Innovative Applications of Artificial Intelligence,X,X,B
+45466C92,PPAM,Parallel Processing and Applied Mathematics,X,X,C
+45D96940,CANS,Cryptology and Network Security,X,X,B
+460D43CF,CISS,Conference on Information Sciences and Systems,X,X,C
+4665AEAE,FSKD,Fuzzy Systems and Knowledge Discovery,X,X,C
+469BDC4B,MobiSys,"International Conference on Mobile Systems, Applications, and Services",B,2.0,B
+46C698EA,DocEng,Document Engineering,X,X,B
+4708B833,IPDPS,International Parallel and Distributed Processing Symposium,B,1.0,A
+4714F2C6,ICAIS,International Conference on Adaptive and Intelligent Systems,X,X,C
+42F91B89,MMM,Conference on Multimedia Modeling,C,7.0,C
+4309C535,ICWSM,International Conference on Weblogs and Social Media,X,X,Unranked
+43F539F1,ArtsIT,Arts and Technology,X,X,C
+452BB0BA,ProvSec,Provable Security,X,X,B
+4542EB6A,CCC,Conference on Computational Complexity,B,6.0,A
+45462B39,EMSOFT,Embedded Software,B,10.0,A
+4673EE2C,ICECCS,International Conference on Engineering of Complex Computer Systems,C,4.0,A
+468C0299,ICONIP,International Conference on Neural Information Processing,C,8.0,A
+46D76472,ISM,International Symposium on Multimedia,X,X,C
+47796128,CIBCB,Computational Intelligence in Bioinformatics and Computational Biology,X,X,C
+47796128,CIBCB,Computational Intelligence in Bioinformatics and Computational Biology,X,X,C
+43701CEE,GLOBECOM,Global Communications Conference,C,2.0,B
+43837677,SGP,Symposium on Geometry Processing,B,7.0,B
+443F9CFF,VR,IEEE Virtual Reality Conference,X,X,A
+4492538C,NSS,Network and System Security,X,X,B
+44B587D1,ISITA,International Symposium on Information Theory and its Applications,X,X,B
+44C78644,IPCCC,"International Performance, Computing, and Communications Conference",C,2.0,B
+456FEF09,LREC,Language Resources and Evaluation,X,X,C
+45C0AEF7,ICDSC,International Conference on Distributed Smart Cameras,X,X,B
+46F58A2E,MIR,Multimedia Information Retrieval,X,X,B
+47B86F47,ICDS,International Conference on the Digital Society,X,X,C
+42BD758D,CAINE,Computer Applications in Industry and Engineering,X,X,C
+42F4F2CC,MOBICOM,ACM/IEEE International Conference on Mobile Computing and Networking,A,2.0,A*
+439E313A,CADE,Conference on Automated Deduction,B,6.0,A
+43C40A80,COCOON,Computing and Combinatorics Conference,X,X,A
+43F44683,APWeb,Asia-Pacific Web Conference,C,5.0,B
+457DC158,CIC,Color Imaging Conference,X,X,C
+45848F1A,UIST,User Interface Software and Technology,B,9.0,A
+458DD1E0,ICIG,International Conference on Image and Graphics,X,X,C
+45F753AE,HASE,High-Assurance Systems Engineering,X,X,B
+47B178E5,ISAS,International Service Availability Symposium,X,X,C
+431CE69C,ISCIS,International Symposium on Computer and Information Sciences,X,X,C
+43727C0E,ICANNGA,International Conference on Adaptive and Natural Computing Algorithms,X,X,C
+43904F00,WSCG,International Conference in Central Europe on Computer Graphics and Visualization,X,X,B
+449C9FDE,ICEBE,International Conference on e-Business Engineering,X,X,B
+45DA1F87,FCCM,Field-Programmable Custom Computing Machines,C,1.0,A
+465A87B2,ECSA,European Conference on Software Architecture,X,X,A
+467CEB8F,SIN,Security of Information and Networks,X,X,C
+4690296A,TABLEAUX,Theorem Proving with Analytic Tableaux and Related Methods,X,X,A
+47765112,CASES,"Compilers, Architecture, and Synthesis for Embedded Systems",C,1.0,A
+47CD5392,ICADL,International Conference on Asian Digital Libraries,X,X,A
+4398864E,CAiSE,Conference on Advanced Information Systems Engineering,B,4.0,A
+43B0793E,SRDS,Symposium on Reliable Distributed Systems,B,3.0,A
+43B11EF5,SKG,"Semantics, Knowledge and Grid",X,X,C
+43FD776C,SIGIR,International ACM SIGIR Conference on Research and Development in Information Retrieval,A,5.0,A*
+442F440A,PSIVT,Pacific-Rim Symposium on Image and Video Technology,X,X,B
+447B8E60,HPCC,High Performance Computing and Communications,C,1.0,B
+44FBA995,MABS,Multi-Agent Systems and Agent-Based Simulation,X,X,C
+454E0ED5,APCHI,Asia-Pacific Computer and Human Interaction,X,X,C
+45B351F5,REFSQ,Requirements Engineering: Foundation for Software Quality,X,X,B
+45DA765E,EUROBOT,International Conference on Research and Education in Robotics,X,X,C
+45E116C3,AIED,Artificial Intelligence in Education,X,X,A
+463BD859,PAKDD,Pacific-Asia Conference on Knowledge Discovery and Data Mining,C,5.0,A
+46FC8289,FDL,Forum on specification and Design Languages,X,X,C
+4777163F,PDCS,Parallel and Distributed Computing Systems (ISCA),X,X,C
+47A9B8FE,ICGT,International Conference on Graph Transformation,X,X,B
+42C0465A,SEAL,Simulated Evolution and Learning,X,X,B
+43CF4565,CLOUD,International Conference on Cloud Computing,X,X,B
+43FD084C,ICAIL,International Conference on Artificial Intelligence and Law,X,X,C
+44616FF1,PPoPP,ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming,B,1.0,A
+447B80D7,ASWEC,Australian Software Engineering Conference,X,X,Australasian
+4499A295,MICRO,International Symposium on Microarchitecture,A,1.0,A
+455B6732,S&P,IEEE Symposium on Security and Privacy,A,3.0,A*
+466DD17F,WETICE,Workshops on Enabling Technologies: Infrastracture for Collaborative Enterprises,X,X,B
+4718BF06,CPM,Combinatorial Pattern Matching,X,X,B
+4743F3A5,WoLLIC,"Workshop on Logic, Language, Information and Computation",X,X,B
+4773F002,CDC,Conference on Decision and Control,X,X,A
+42C62517,CIT,Computer and Information Technology,X,X,C
+42CF1BB8,CIARP,Iberoamerican Congress on Pattern Recognition,X,X,C
+43DCE876,SenSys,International Conference on Embedded Networked Sensor Systems,B,2.0,A*
+4484A15D,PEPM,Partial Evaluation and Semantic-Based Program Manipulation,C,4.0,B
+44B16F02,EuroCG,European Workshop on Computational Geometry,X,X,C
+459A9715,AST,Automation of Software Test,X,X,C
+4672F3B6,MASS,Mobile Adhoc and Sensor Systems,C,2.0,B
+46E57E89,VISSOFT,Visualizing Software for Understanding and Analysis,X,X,B
+471F93FA,CIAC,International Conference on Algorithms and Complexity,X,X,C
+4772219F,CIDM,Computational Intelligence and Data Mining,X,X,C
+47B51FBD,ECRTS,Euromicro Conference on Real-Time Systems,X,X,A
+4306948C,SIGCSE,Technical Symposium on Computer Science Education,X,X,A
+43B17EAF,PDP,"Parallel, Distributed and Network-Based Processing",X,X,C
+43C320E5,ESOP,European Symposium on Programming,X,X,A
+43DFAE0A,OOPSLA,"Conference on Object-Oriented Programming Systems, Languages, and Applications",A,4.0,A*
+447CF406,ECIS,European Conference on Information Systems,X,X,A
+453F3F1D,IPSN,Information Processing in Sensor Networks,B,2.0,A*
+453FBF5D,VAST,Visual Analytics Science and Technology,X,X,C
+4554E150,GCC,Grid and Cooperative Computing,X,X,C
+45F99F55,ICITS,International Conference on Information Theoretic Security,X,X,C
+462744F4,VTC,Vehicular Technology Conference,X,X,B
+465DCDBA,COMAD,Conference on Management of Data,X,X,B
+466F15E7,SAGT,Algorithmic Game Theory,X,X,B
+46E1AB3B,FCT,Fundamentals of Computation Theory,X,X,A
+472461FB,DSOM,Distributed Systems: Operations and Management,X,X,B
+4797C437,ECEG,European Conference On e-Government,X,X,C
+8516B55A,EMBC,International Conference of the IEEE Engineering in Medicine and Biology Society,X,X,C
+4361BD82,WICSA,Working IEEE/IFIP Conference on Software Architecture,X,X,A
+437E7D49,IWPT,International Workshop/Conference on Parsing Technologies,X,X,B
+43AEF2F9,Pervasive,International Conference on Pervasive Computing,X,X,A*
+441CE122,SDM,SIAM International Conference on Data Mining,B,5.0,A
+44B7D8B2,IRI,Information Reuse and Integration,X,X,C
+44C5464F,BIBE,Bioinformatics and Bioengineering,X,X,C
+45B09C45,ICER,International Computing Education Research Workshop,X,X,B
+461C83ED,SEAA,Software Engineering and Advanced Applications,X,X,C
+46E64AD9,NCA,Network Computing and Applications,X,X,A
+470B05DE,ICCSA,International Conference on Computational Science and Its Applications,X,X,C
+478794CB,WI,Web Intelligence,X,X,B
+47CB8578,SCOPES,Software and Compilers for Embedded Systems,X,X,A
+42D4CF15,ICTAC,International Colloquium on Theoretical Aspects of Computing,X,X,B
+436312EA,RCIS,Research Challenges in Information Science,X,X,B
+44087830,GPC,Grid and Pervasive Computing,X,X,C
+447AFBD7,AAA-IDEA,Advanced Architectures and Algorithms for Internet Delivery and Applications,X,X,C
+44B13001,SIGCOMM,ACM Special Interest Group on Data Communication,A,2.0,A*
+44D4200D,UIC,Ubiquitous Intelligence and Computing,C,9.0,B
+44D951AC,PIMRC,"Personal, Indoor and Mobile Radio Communications",X,X,B
+45A0DDC1,ICARCV,"International Conference on Control, Automation, Robotics and Vision",X,X,A
+45A87C40,WFLP,Workshop on Functional and Constraint Logic Programming,X,X,C
+45CC165B,LICS,Logic in Computer Science,A,6.0,A*
+45D8562E,AMCIS,Americas Conference on Information Systems,X,X,A
+45FD9DD4,PRICAI,Pacific Rim International Conference on Artificial Intelligence,C,8.0,B
+46D869D6,EACL,Conference of the European Chapter of the Association for Computational Linguistics,X,X,A
+4742B309,TLDI,Types In Languages Design And Implementation,X,X,C
+4744249D,SOFSEM,Conference on Current Trends in Theory and Practice of Informatics,X,X,B
+430D9705,ISSTA,International Symposium on Software Testing and Analysis,B,4.0,A
+4384C1D1,WALCOM,Workshop on Algorithms and Computation,X,X,C
+43AFEC4B,EDOC,Enterprise Distributed Object Computing,X,X,B
+43E2179B,SEA,Symposium on Experimental and Efficient Algorithms,X,X,B
+44C16141,CRYPTO,International Cryptology Conference,A,3.0,A*
+45563B9A,WCNC,Wireless Communications and Networking Conference,C,2.0,B
+4651456C,CCGRID,Cluster Computing and the Grid,C,1.0,A
+469324BE,IWSEC,International Workshop on Security,X,X,B
+46A355BA,OSDI,Operating Systems Design and Implementation,A,4.0,A*
+472C6E2D,CIKM,Conference on Information and Knowledge Management,B,5.0,A
+473B0162,CSCW,Conference on Computer Supported Cooperative Work,B,9.0,A
+42D98AA6,GPCE,Generative Programming and Component Engineering,X,X,B
+4390334E,VLDB,Very Large Data Bases,A,5.0,A*
+44BF411D,ICEE,International Conference on E-Business and E-Government,X,X,C
+45266923,ACHI,Advances in Computer-Human Interaction,X,X,C
+4556024C,Euro-Par,European Conference on Parallel Processing,C,1.0,A
+45ED3638,FORTE,Formal Techniques for (Networked and) Distributed Systems,C,2.0,A
+465EF934,MASCOTS,"Modeling, Analysis, and Simulation On Computer and Telecommunication Systems",C,1.0,A
+46B774B0,CATA,Computers and Their Applications,X,X,C
+470DE66B,TRIDENTCOM,Testbeds and Research Infrastructures for the DEvelopment of NeTworks and COMmunities,X,X,B
+47167ADC,EMNLP,Empirical Methods in Natural Language Processing,B,8.0,A
+47A8116F,MoMM,Advances in Mobile Multimedia,X,X,B
+4332078E,PLDI,Programming Language Design and Implementation,A,4.0,A*
+439F2D27,PCS,Picture Coding Symposium,X,X,C
+43F3EBCF,PG,Pacific Conference on Computer Graphics and Applications,B,7.0,A
+43F5AF1B,WKDD,Workshop on Knowledge Discovery and Data Mining,X,X,C
+44913AA3,WSE,Symposium on Web Systems Evolution,X,X,C
+4493E2DA,TMFCS,Theoretical and Mathematical Foundations of Computer Science,X,X,C
+44A68539,ICEIS,International Conference on Enterprise Information Systems,X,X,C
+45616195,PACIS,Pacific Asia Conference on Information Systems,X,X,A
+4579BE85,SLE,Software Language Engineering,X,X,B
+4585ADCE,SBAC-PAD,Symposium on Computer Architecture and High Performance Computing,X,X,B
+45ECD72D,ENASE,International Conference on Evaluation of Novel Approaches to Software Engineering,X,X,B
+466797C4,CollaborateCom,Collaborative Computing,X,X,C
+433DEF3A,ICCAD,International Conference on Computer Aided Design,B,1.0,A
+4399020E,ICSC,International Conference on Semantic Computing,X,X,B
+44486FB2,CSMR,Conference on Software Maintenance and Reengineering,X,X,C
+458DD604,INLG,International Conference on Natural Language Generation,X,X,B
+45A88363,AAMAS,Adaptive Agents and Multi-Agents Systems,B,8.0,A*
+45F09162,EuroSys,European Conference on Computer Systems,B,1.0,A
+4603CA00,APCCM,Asia-Pacific Conference on Conceptual Modelling,X,X,B
+4613D662,ISVC,International Symposium on Visual Computing,X,X,C
+46DAB993,ACL,Meeting of the Association for Computational Linguistics,B,8.0,A*
+47175205,MSWiM,Modeling Analysis and Simulation of Wireless and Mobile Systems,C,2.0,A
+43750ABA,WCRE,Working Conference on Reverse Engineering,B,4.0,B
+43A1990D,APSEC,Asia-Pacific Software Engineering Conference,C,4.0,B
+444A182D,CONCUR,International Conference on Concurrency Theory,B,6.0,A
+449D19CC,MobiHoc,Mobile Ad Hoc Networking and Computing,B,2.0,A
+450351F9,Haskell,Symposium/Workshop on Haskell,X,X,C
+4556567A,DLT,Developments in Language Theory,X,X,B
+47B7ABEF,AICCSA,ACS/IEEE International Conference on Computer Systems and Applications,X,X,C
+42BC7E41,ICCTA,International Conference on Computing: Theory and Applications,X,X,C
+4341ED82,NLDB,Applications of Natural Language to Data Bases,X,X,C
+435020A4,MICCAI,Medical Image Computing and Computer-Assisted Intervention,X,X,A
+43613D12,SCCG,Spring Conference on Computer Graphics,X,X,C
+44865A7C,WACV,Workshop on Applications of Computer Vision,X,X,A
+449E1173,IVA,Intelligent Virtual Agents,X,X,B
+4519AD8F,MPC,Mathematics of Program Construction,X,X,B
+4565F956,DIMEA,Digital Interactive Media in Entertainment and Arts,X,X,B
+457F1F48,CSL,Computer Science Logic,C,6.0,B
+460AA0EE,ICETE,International Conference on E-Business and Telecommunication Networks,X,X,C
+462601A7,ICAISC,International Conference on Artificial Intelligence and Soft Computing,X,X,C
+476510B9,IOLTS,International On-Line Testing Symposium,X,X,C
+47C2769F,ICTD,Information and Communication Technologies and Development,X,X,C
+432E26DB,CHES,Cryptographic Hardware and Embedded Systems,B,3.0,C
+433BF259,DaWaK,Data Warehousing and Knowledge Discovery,X,X,B
+434C5E01,ITA,Information Theory and Applications,X,X,B
+43765ED4,ACISP,Australasian Conference on Information Security and Privacy,C,3.0,Australasian
+44359895,CAIP,Computer Analysis of Images and Patterns,X,X,B
+44412635,XSym,International XML Database Symposium,X,X,C
+4524B15F,POPL,Symposium on Principles of Programming Languages,A,4.0,A*
+4539C0B4,ICFHR,International Conference on Frontiers in Handwriting Recognition,X,X,B
+46142C30,ISAAC,International Symposium on Algorithms and Computation,C,6.0,A
+462A34B5,ICALT,International Conference on Advanced Learning Technologies,X,X,B
+46405877,GRID,Grid Computing,X,X,A
+465B502B,ECSCW,European Conference on Computer Supported Cooperative Work,B,9.0,B
+469D149A,DASFAA,Database Systems for Advanced Applications,B,5.0,A
+430A5A1A,PPPJ,Principles and Practice of Programming in Java,X,X,C
+433F90DB,IPMU,Information Processing and Management of Uncertainty,X,X,C
+438FF714,LATIN,Latin American Symposium on Theoretical Informatics,X,X,B
+44689F98,Inscrypt,Information Security and Cryptology,X,X,B
+447034A1,VSMM,Virtual Systems and MultiMedia,X,X,B
+448B966A,WADS,Workshop on Algorithms and Data Structures,X,X,B
+4530AFC7,EISWT,Enterprise Information Systems and Web Technologies,X,X,C
+45AAD458,EUMAS,European Workshop on Multi-Agent Systems,X,X,C
+45F6A80D,SCN,Security and Cryptography for Networks,X,X,B
+464F6958,SEC,Information Security,C,3.0,B
+4678AD74,ICIAR,International Conference on Image Analysis and Recognition,X,X,C
+470CB4A0,CSC,Conference on Scientific Computing,X,X,C
+47405592,ACSAC,Annual Computer Security Applications Conference,B,3.0,A
+42ECFC7D,JSSPP,Job Scheduling Strategies for Parallel Processing,X,X,B
+43D159ED,PAM,Passive and Active Network Measurement,X,X,B
+43E27A26,HPCS,High Performance Computing Systems and Applications,X,X,B
+43F9E08E,IJCNN,International Joint Conference on Neural Network,C,8.0,A
+44233F91,COMPSAC,Computer Software and Applications Conference,C,4.0,B
+4454EDDD,TrustBus,Trust and Privacy in Digital Business,X,X,B
+4484AC0E,ACG,Advances in Computer Games,X,X,C
+44A907AC,AusDM,Australasian Data Mining Conference,X,X,Australasian
+44E8D4B3,SSDBM,Statistical and Scientific Database Management,C,5.0,A
+45238EAA,DCOSS,Distributed Computing in Sensor Systems,X,X,B
+45BD7739,CSB,Computational Systems Bioinformatics,X,X,A
+45FB3662,ASPLOS,Architectural Support for Programming Languages and Operating Systems,A,1.0,A*
+46155D1D,IH,Information Hiding,X,X,C
+461BAEE3,IJCAR,International Joint Conference on Automated Reasoning,X,X,A*
+462A683B,ECOOP,European Conference on Object-Oriented Programming,B,4.0,A
+47977D8C,ICLP,International Conference on Logic Programming,X,X,A
+47977D8C,ICLP,International Conference on Logic Programming,X,X,A
+43282CD8,IJCNLP,International Joint Conference on Natural Language Processing,X,X,B
+43319DD4,NIPS,Neural Information Processing Systems,B,8.0,A*
+436EE6FE,ISCA,International Symposium on Computer Architecture,A,1.0,A*
+4397F0B8,MDM,Mobile Data Management,C,5.0,C
+440F51B1,HPDC,High Performance Distributed Computing,B,1.0,A
+4413E269,EuroGP,European Conference on Genetic Programming,X,X,B
+4457D26B,PERSUASIVE,International Conference on Persuasive Technology,X,X,B
+44A6E67D,PADS,Workshop on Parallel and Distributed Simulation,X,X,B
+44F1AB80,ICNP,International Conference on Network Protocols,B,2.0,A
+45563EAC,FQAS,Flexible Query Answering Systems,X,X,C
+4566232D,SIGGRAPH,International Conference on Computer Graphics and Interactive Techniques,A,7.0,A*
+4603A79F,ACCV,Asian Conference on Computer Vision,C,8.0,B
+4651E4FA,VISAPP,International Conference on Computer Vision Theory and Applications,X,X,C
+46549128,APNOMS,Asia-Pacific Network Operations and Management Symposium,X,X,C
+46E0467E,CW,Cyberworlds,X,X,B
+4799A10B,IDA,Intelligent Data Analysis,X,X,A
+47C279F3,ECOWS,European Conference on Web Services,X,X,C
+42BBC5C1,WABI,Workshop on Algorithms in Bioinformatics,X,X,B
+444CACB9,VLSID,International Conference on VLSI Design,X,X,C
+44F1E491,NOMS,Network Operations and Management Symposium,C,2.0,B
+45878F67,ASE,Automated Software Engineering,B,4.0,A
+45AAAE95,OZCHI,Australasian Computer-Human Interaction Conference,X,X,Australasian
+45CEC493,SOSP,Symposium on Operating Systems Principles,A,4.0,A*
+45F5DF42,AWIC,Atlantic Web Intelligence Conference,X,X,C
+467F57A2,AIRS,Asia Information Retrieval Symposium,X,X,C
+46B1CCD7,ITI,Information Technology Interfaces,X,X,C
+46C99331,FASE,Fundamental Approaches to Software Engineering,X,X,B
+470F8BDC,DBPL,Database Programming Languages,X,X,B
+43AAC778,HPSR,High Performance Switching and Routing,X,X,C
+43B6A1AD,CCNC,Consumer Communications and Networking Conference,X,X,B
+43DB3338,IEA/AIE,Industrial and Engineering Applications of Artificial Intelligence and Expert Systems,X,X,C
+451C38EE,SPAA,ACM Symposium on Parallel Algorithms and Architectures,B,1.0,A
+45F4651A,CISIM,Computer Information Systems and Industrial Management Applications,X,X,C
+460452E7,ISORC,International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing,X,X,C
+462F772C,SPIRE,String Processing and Information Retrieval,X,X,B
+46CA67CE,JURIX,International Conference on Legal Knowledge and Information Systems,X,X,C
+4748E8C5,ICMS,International Congress on Mathematical Software,X,X,B
+478E195D,APBC,Asia-Pacific Bioinformatics Conference,C,10.0,B
+42BD0758,EuroPKI,European Public Key Infrastructure Workshop,X,X,B
+439224DC,MCDM,Multiple Criteria Decision Making,X,X,C
+43C08A77,ICS,International Conference on Supercomputing,B,1.0,A
+443880FD,AIML,Advances in Modal Logic,X,X,A
+446A89CA,CLADE,Challenges of Large Applications in Distributed Environments,X,X,C
+44FA759F,AUIC,Australasian User Interface Conference,X,X,Australasian
+45F650F9,SEKE,Software Engineering and Knowledge Engineering,C,4.0,B
+46347866,SIGITE,Conference on Information Technology Education,X,X,C
+46A7A69E,ICISP,International Conference on Image and Signal Processing,X,X,C
+46C9E7AF,ACIVS,Advanced Concepts for Intelligent Vision Systems,X,X,B
+46D5DA24,HotNets,Hot Topics in Networks,C,2.0,A
+43331058,INTERACT,International Conference on Human-Computer Interaction,C,9.0,A
+435EE3DA,SecureComm,Security and Privacy in Communication Networks,C,3.0,B
+43A4E7DF,ENC,Mexican International Conference on Computer Science,X,X,C
+43A8F3E1,IWQoS,International Workshop on Quality of Service,B,2.0,B
+43B0EC38,ICICS,International Conference on Information and Communication Security,X,X,B
+43DF0F6B,ICMLA,International Conference on Machine Learning and Applications,X,X,C
+441DE433,FSR,Field and Service Robotics,X,X,A
+44406FED,SAT,Theory and Applications of Satisfiability Testing,C,6.0,A
+4459102E,PCM,Pacific Rim Conference on Multimedia,C,7.0,C
+452D6964,IMC,Internet Measurement Conference,B,2.0,A
+456A8673,IMS,Advanced Information Management and Service,X,X,C
+465D33C1,ECIR,European Conference on Information Retrieval,C,5.0,B
+46950273,SNPD,"Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing",X,X,C
+4762CAF8,ISIT,International Symposium on Information Theory,X,X,B
+4766A14B,AmI,Ambient Intelligence,X,X,C
+47C1A70D,AISC,Artificial Intelligence and Symbolic Computation,X,X,Australasian
+42F73407,FSTTCS,Foundations of Software Technology and Theoretical Computer Science,C,6.0,X
+477202E3,BMVC,British Machine Vision Conference,C,8.0,X
+432DDB7E,ETS,European Test Symposium,C,1.0,X
+451BB32E,NOCS,Networks-on-Chips,C,1.0,X
+44EA5E08,BIBM,Bioinformatics and Biomedicine,B,10.0,X
+45E3CA1B,ICB,International Conference on Biometrics,C,8.0,X
+4704764E,FPL,Field-Programmable Logic and Applications,C,1.0,X
+46BFF4BF,ICCD,International Conference on Computer Design,B,1.0,X
+457D471C,i3D,Interactive 3D Graphics and Games,B,7.0,X
+45B9D64F,FM,Formal Methods,B,4.0,X
+442F700A,SoCG,Symposium on Computational Geometry,B,6.0,X
+42CCF5DE,ISLPED,International Symposium on Low Power Electronics and Design,C,1.0,X
+46C2A057,DSN,Dependable Systems and Networks,B,3.0,X
+42CCC198,HiPEAC,High Performance Embedded Architectures and Compilers,B,1.0,X
+43C18390,FPGA,Field Programmable Gate Arrays,B,1.0,X
+43D23988,ICCCN,International Conference on Computer Communications and Networks,C,2.0,X
+46B686C3,CASA,Computer Animation and Social Agents,C,7.0,X
+438A7779,WISEC,Wireless Network Security,C,3.0,X
+45834231,FMCAD,Formal Methods in Computer-Aided Design,C,6.0,X
+434A76CE,GLSVLSI,Great Lakes Symposium on VLSI,C,1.0,X
+43D1CF2E,ASP-DAC,Asia and South Pacific Design Automation Conference,C,1.0,X
+438DC8E7,ICFEM,International Conference on Formal Engineering Methods,C,4.0,X
+478D1F3B,EGSR,Eurographics Symposium on Rendering Techniques,B,7.0,X
+43D1DCC1,ANCS,Architectures for Networking and Communications Systems,C,2.0,X
+471752F4,ISCAS,International Symposium on Circuits and Systems,C,1.0,X
+43C2327D,DFRWS,Digital Forensic Research Workshop,C,3.0,X
+460F9D66,ASSETS,Conference on Computers and Accessibility,C,9.0,X
+435FBD28,FPT,Field-Programmable Technology,C,1.0,X
+4532399F,ICSM,International Conference on Software Maintenance,B,4.0,X
+4300CAC5,VTS,VLSI Test Symposium,C,1.0,X
+454034E3,LISA,USENIX Large Installation Systems Administration Conference,B,1.0,X
+456CDDD6,ISPD,International Symposium on Physical Design,C,1.0,X
